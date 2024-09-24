@@ -23,14 +23,39 @@ pip install -r requirements.txt
 - python-dotenv
 
 ### 만약 requirements.txt가 안된다면
+다음은 마크다운 형식으로 각 라이브러리 설치 명령어를 분리한 내용입니다:
+
+```bash
 pip install flask
+```
+
+```bash
 pip install langchain
+```
+
+```bash
 pip install chromadb
+```
+
+```bash
 pip install sentence-transformers
+```
+
+```bash
 pip install openai
+```
+
+```bash
 pip install pypdf
+```
+
+```bash
 pip install langchain-community
+```
+
+```bash
 pip install python-dotenv
+```
 
 
 ### 실행 방법
